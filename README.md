@@ -17,9 +17,9 @@ This project is an **Excel dashboard** to analyze feedback data easily. It helps
 
 ## How to Use
 1. Open the Excel file.
-2. Go to the "Dashboard" sheet to see charts and KPIs.
+2. Go to the Dashboard sheet to see charts and KPIs.
 3. Use the slicers to filter data.
-4. Check the "Data" sheet for detailed records.
+4. Check the Data sheet for detailed records.
 
 ## Learning
 - Learned how to create dashboards in Excel
